@@ -1,0 +1,30 @@
+{
+  "name": "project-name",
+  "version": "1.0.0",
+  "description": "[project-desciprtion]",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plibither8/[git repostory]"
+  },
+  "author": "Mihir Chaturvedi <plibither8@gmail.com> (https://mihir.ch)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plibither8/[git repository]/issues"
+  },
+  "homepage": "https://github.com/plibither8/[git repository]#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-cli": "^1.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-pug": "^3.3.0",
+    "gulp-stylus": "^2.6.0",
+    "gulp-surge": "0.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^4.3.11",
+    "local-web-server": "^2.3.0"
+  }
+}
